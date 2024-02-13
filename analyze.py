@@ -44,4 +44,4 @@ if count != last:
     dic1[str(firstc) + " to " + str(lastc)] = average
 
 for key, value in dic1.items():
-    print("The average temperature from " + key + " is " + value + ".")
+    print("The average temperature from " + key + " is " + value + "deg-F.")
